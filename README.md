@@ -27,8 +27,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal21121&" alt="vishal21121" /></p>
 
 ---
-## <a href="https://hashnode.com/@vishal21121"><img src="https://github.com/Vishal21121/Vishal21121/blob/master/hashnode-logo.png" title="HASHNODE" alt="HASHNODE" width="25"/></a>   Recent Articles on hashnode
+## <a href="https://hashnode.com/@vishal21121"><img src="https://github.com/Vishal21121/Vishal21121/blob/master/brand-icon.png" title="HASHNODE" alt="HASHNODE" width="25"/></a>   Recent Articles on hashnode
  <!-- HASHNODE-BLOG-LIST:START -->
 - [Bash Scripting 101: A Comprehensive Guide to Building Powerful Scripts](https://vishalsblog.hashnode.dev/bash-scripting-101-a-comprehensive-guide-to-building-powerful-scripts)
 <!-- HASHNODE-BLOG-LIST:END -->
----
+
