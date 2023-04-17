@@ -28,5 +28,6 @@
 
 ---
  <!-- HASHNODE-BLOG-LIST:START -->
- <!-- HASHNODE-BLOG-LIST:END -->
+- [Bash Scripting 101: A Comprehensive Guide to Building Powerful Scripts](https://vishalsblog.hashnode.dev/bash-scripting-101-a-comprehensive-guide-to-building-powerful-scripts)
+<!-- HASHNODE-BLOG-LIST:END -->
 ---
