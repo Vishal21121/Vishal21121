@@ -20,7 +20,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Vishal21121&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vishal21121&icon=4&color=6)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal21121&label=Profile%20views&color=0e75b6&style=flat" alt="vishal21121" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
