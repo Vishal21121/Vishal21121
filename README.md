@@ -26,7 +26,7 @@
 ---
 ## <a href="https://hashnode.com/@vishal21121"><img src="https://github.com/Vishal21121/Vishal21121/blob/master/brand-icon.png" title="HASHNODE" alt="HASHNODE" width="25"/></a>   Recent Articles on hashnode
  <!-- HASHNODE-BLOG-LIST:START -->
-- [Array.slice vs Array.splice](https://vishal21121.hashnode.dev/arrayslice-vs-arraysplice)
+- [Array.slice vs Array.splice](https://vishal21121.hashnode.dev/slice-vs-splice)
 - [Wishlist Your Favourite Movies](https://vishal21121.hashnode.dev/wishlist-your-favourite-movies)
 - [Bash Scripting 101: A Comprehensive Guide to Building Powerful Scripts](https://vishal21121.hashnode.dev/bash-scripting-101-a-comprehensive-guide-to-building-powerful-scripts)
 <!-- HASHNODE-BLOG-LIST:END -->
